@@ -1,0 +1,4 @@
+EULA = false
+//
+INSERT EULA TERMS HERE
+//
